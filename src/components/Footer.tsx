@@ -13,9 +13,8 @@ const Footer = () => {
               <span className="text-portfolio-blue">Port</span>folio
             </span>
           </div>
-          
           <p className="text-gray-400 max-w-md mx-auto mb-8">
-            A full stack developer passionate about building seamless and dynamic web applications from front to back.
+            We are a technology company dedicated to delivering innovative and reliable web solutions for businesses of all sizes.
           </p>
           
           <div className="flex justify-center space-x-8 mb-8">
